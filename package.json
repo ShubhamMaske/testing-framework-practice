@@ -1,0 +1,15 @@
+{
+  "name": "mocha-chai-testing-practice",
+  "version": "1.0.0",
+  "description": "practice on Moacha testing framework and chai library",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Shubham Maske",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
